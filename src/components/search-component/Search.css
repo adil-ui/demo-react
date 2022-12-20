@@ -1,0 +1,32 @@
+.search{
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    background-color: rgba(0, 0, 0, 0.687);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    
+}
+.search form{
+    margin-top: 10px;
+    text-align: center;
+}
+.search input{
+    width: 70%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    outline: none;
+    
+}
+.search ul{
+    list-style: none;
+    text-align: center;
+}
+.search li{
+    color: white;
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}

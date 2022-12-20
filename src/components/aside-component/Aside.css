@@ -1,0 +1,27 @@
+aside{
+    width: 20%;
+    background-color: aquamarine;
+    padding: 30px 0;
+
+}
+ul{
+    padding: 0;
+}
+aside ul li{
+    list-style: none;
+    color: rgb(0, 91, 61);
+    padding: 20px 0;
+    font-size: 20px;
+    border: 2px solid rgb(0, 190, 126);
+    text-align: center;
+    border-bottom: 0;
+    cursor: pointer;
+    transition: .5s;
+}
+aside ul li:last-child{
+    border-bottom: 2px solid rgb(0, 190, 126);
+}
+aside ul li:hover{
+    background-color: rgb(0, 190, 126);
+    color: white;
+}

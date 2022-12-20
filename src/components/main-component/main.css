@@ -1,0 +1,33 @@
+main{
+    width: 80%;
+    padding: 30px 10px;
+
+
+}
+p{
+    margin: 10px 0;
+    font-size: 18px;
+}
+.mapObjet{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 20px;
+}
+.mydiv{
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 20px;
+    width: 30%;
+}
+.firstP{
+    font-weight: 900;
+}
+.userContainer{
+    text-align: center;
+    margin-bottom: 20px;
+}
